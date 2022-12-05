@@ -1,0 +1,2 @@
+
+      digraph[charpair] += interva
